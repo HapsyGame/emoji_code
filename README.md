@@ -1,4 +1,4 @@
-        😀 EMOJI CODE 😀
+😀 EMOJI CODE 😀
 ____________________________________
 
-Please check Documentation.pdf for more informations
+➠ Please check Documentation.pdf for more informations
