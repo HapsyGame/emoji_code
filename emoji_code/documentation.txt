@@ -1,0 +1,16 @@
+🔁 => while
+↪️ => for
+🤔 => if
+🙃 => else
+📨 : "[...]" => return console
+🔓 => enter loop
+🔒 => exit loop
+➕ => equal variable +1
+➖ => equal variable -1
+🟰 => equal value "=="
+💪 => superior ">"
+🤏 => inferior "<"
+🔗 => link for loop ";"
+🎲 => random
+📩🔢("[...]") => ask console float
+📩🔡("[...]") => ask console string

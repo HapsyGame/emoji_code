@@ -1,0 +1,39 @@
+📨 : "--- GAME : THE RIGHT NUMBER ---"
+📨 : ""
+📨 : "➤  First Bot"
+bot = 🎲(1,10)
+
+📨 : "Bot has chosen : {bot}; now your turn"
+
+📨 : ""
+player = 📩🔢("➤  Choose number between 1-10 : ")
+
+random = 🎲(1,10)
+
+📨 : ""
+📨 : "Bot chose : {bot}, Player chose : {player}"
+📨 : ""
+
+🤔(player 🟰 bot)
+🔓
+    📨 : "ERROR : Same number, Retry !"
+🔒
+🙃
+🔓
+    🤔(bot 🟰 random)
+    🔓
+        📨 : "Random : {random} ➠  BOT WIN"
+    🔒
+    🙃
+    🔓
+        🤔(player 🟰 random)
+        🔓
+            📨 : "Random : {random} ➠  PLAYER WIN"
+        🔒
+        🙃
+        🔓
+            📨 : "Random : {random} ➠  Nobody win"
+        🔒
+    🔒
+🔒
+

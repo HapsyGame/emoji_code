@@ -1,0 +1,22 @@
+string_test = "well done"
+float_test = 3.5
+int_test = 10
+
+🔁(int_test 💪 1)
+🔓
+    int_test➖
+🔒
+
+↪️(i = 1🔗i 🤏🟰 5🔗i➕)
+🔓
+    📨 : "Décompte : {i}"
+🔒
+
+🤔(int_test 🟰 1)
+🔓
+    📨 : "> Nice {string_test} !"
+🔒
+🙃
+🔓
+    📨 : "Nope"
+🔒
